@@ -1,0 +1,4 @@
+SELECT id, name
+FROM STUDENT
+ORDER BY score DESC, id
+LIMIT 3;
